@@ -2,8 +2,7 @@
 
 [![oldjaponec](https://img.shields.io/github/followers/oldjaponec?label=Follow%20me&style=social)](https://github.com/OldJaponec)
 [![OCR](https://img.shields.io/badge/API-Free_OCR-orange?style=plastic)](https://ocr.space/ocrapi)
-![tests](https://img.shields.io/badge/tests-60%25-yellowgreen
-?style=plastic)
+![tests](https://img.shields.io/badge/tests-60%25-yellowgreen?style=plastic)
 [![MongoDB](https://img.shields.io/badge/Mongo-DB-green?style=plastic)](https://www.mongodb.com/)
 [![python](https://img.shields.io/badge/python-3.6%20%7C%203.7%20%7C%203.8%20%7C%203.9%20%7C%203.10-blue?style=plastic)](https://www.python.org/)
 [![compvision](https://img.shields.io/badge/Computer-Vision-red?style=plastic)](https://en.wikipedia.org/wiki/Computer_vision)
