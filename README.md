@@ -110,7 +110,7 @@ Just copy the code and run it line by line in your [terminal](https://github.com
 
 #### 2.5. Dowload project files
 
-Download or copy all the files from this repository. Make sure that the files are in the same folder - the root folder of your project. Create an images folder and fill it with car plates.
+Download or copy all the files from this repository. Make sure that the files are in the same folder - the root folder of your project. Create an images folder and fill it with [car plates](https://www.google.com/search?q=israeli+license+car+plates&sxsrf=ALiCzsYLLKYUYWmImY_JJo9zKbUeKRMK0w:1664225930308&source=lnms&tbm=isch&sa=X&ved=2ahUKEwibqZvbrLP6AhWmmIsKHTAvC4cQ_AUoAXoECAEQAw&biw=1536&bih=758&dpr=1.25).
 
 #### 2.6. Connecting to the [Free OCR API](https://ocr.space/OCRAPI)
 
