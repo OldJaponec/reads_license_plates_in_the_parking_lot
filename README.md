@@ -10,6 +10,9 @@
 
 # License plate reader
 
+<img src='https://raw.githubusercontent.com/OldJaponec/reads_license_plates_in_the_parking_lot/main/screens/app.png' width=100%>
+
+
 ### Table of Contents
 > ##### [1. Description](https://github.com/OldJaponec/reads_license_plates_in_the_parking_lot/blob/main/README.md#1-description-1)
 > ##### [2. Installation and setup](https://github.com/OldJaponec/reads_license_plates_in_the_parking_lot/blob/main/README.md#2-installation-and-setup-1)
