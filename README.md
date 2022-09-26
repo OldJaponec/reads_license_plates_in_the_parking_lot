@@ -12,7 +12,14 @@
 
 ### Table of Contents
 > ##### 1. Description
-> ##### 2. Installation and setup
+> ##### 2. [Installation and setup](https://github.com/OldJaponec/reads_license_plates_in_the_parking_lot/blob/main/README.md#2-installation-and-setup-1)
+   >> ##### 2.1. Install Python
+   >> ##### 2.2. Run the Terminal
+   >> ##### 2.3. Install pip
+   >> ##### 2.4. Installing the required libraries
+   >> ##### 2.5. Dowload project files
+   >> ##### 2.6. Connecting to the [Free OCR API](https://ocr.space/OCRAPI)
+   >> ##### 2.7. Connecting to the [MongoDB](https://www.mongodb.com/)
 > ##### 3. Tests
 
 
