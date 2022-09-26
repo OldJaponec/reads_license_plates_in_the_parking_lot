@@ -13,7 +13,7 @@
 ### Table of Contents
 > ##### [1. Description](https://github.com/OldJaponec/reads_license_plates_in_the_parking_lot/blob/main/README.md#1-description-1)
 > ##### [2. Installation and setup](https://github.com/OldJaponec/reads_license_plates_in_the_parking_lot/blob/main/README.md#2-installation-and-setup-1)
-   >> ##### [2.1. Install Python](https://github.com/OldJaponec/reads_license_plates_in_the_parking_lot/blob/main/README.md#21-install-python-1)
+   >> ##### [2.1. Install Python](https://github.com/OldJaponec/reads_license_plates_in_the_parking_lot/blob/main/README.md#21-install-python-2)
    >> ##### [2.2. Run the Terminal](https://github.com/OldJaponec/reads_license_plates_in_the_parking_lot/blob/main/README.md#22-run-the-terminal-1)
    >> ##### [2.3. Install pip](https://github.com/OldJaponec/reads_license_plates_in_the_parking_lot/blob/main/README.md#23-install-pip-1)
    >> ##### [2.4. Installing the required libraries](https://github.com/OldJaponec/reads_license_plates_in_the_parking_lot/blob/main/README.md#24-installing-the-required-libraries-1)
