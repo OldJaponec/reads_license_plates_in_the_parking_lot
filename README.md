@@ -175,3 +175,38 @@ Copy conection string and past in the corresponding field in .env:
 `MONGO_CONNECTION_STRING=<connection_string>`
 
 ### 1. Tests
+
+Open a terminal and navigate to your project folder. To do this, you can copy the path from the line of your file browser and paste it after the `cd` command. Something like this, depending on your OS:
+
+`cd /home/projects/reads_license_plates_in_the_parking_lot`
+
+Then run main.py with the command:
+
+`python3 main.py`
+
+Or for some systems
+
+`python main.py`
+
+If you've done it right, you'll see something like this:
+
+```
+There is no license plate on the image  ./images/car_plate_8.jpg
+21217561 : YES
+There is no license plate on the image  ./images/car_plate_9.jpeg
+There is no license plate on the image  ./images/car_plate_3.jpg
+2222277 : YES
+8118508 : YES
+31029651 : YES
+1797765 : NO
+There is no license plate on the image  ./images/car_plate_1.jpeg
+There is no license plate on the image  ./images/car_plate_6.jpeg
+```
+
+And new entries will appear in your database
+
+<img src='https://raw.githubusercontent.com/OldJaponec/reads_license_plates_in_the_parking_lot/main/screens/tests.png' width=70%>
+
+### 4. Contacts
+
+If you have questions you can create a new [discussion](https://github.com/OldJaponec/reads_license_plates_in_the_parking_lot/discussions) or email oldjaponec@gmail.com
