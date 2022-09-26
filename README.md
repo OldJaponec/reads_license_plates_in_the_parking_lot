@@ -119,6 +119,8 @@ You get something like this:
 
 Go to the [MongoDB website](https://www.mongodb.com/) and click Try Free. Fill out the form. Choose Python and name your project. Create Cluster. It's going to take some time.
 
+<img src='https://raw.githubusercontent.com/OldJaponec/reads_license_plates_in_the_parking_lot/f9b69f1596a0c420b7a25c1006db0a0b9d897497/screens/1.png' hight=220 width=490>
+
 After completing the creation process, you must add a new database user: 
 
 
