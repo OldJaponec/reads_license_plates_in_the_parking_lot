@@ -120,7 +120,7 @@ Go to the [OCRAPI website](https://ocr.space/OCRAPI) and register. After confirm
 
 You get something like this:
 
-`API_KEY=HG793JGR%75HFGFR6TTYTDR94`
+`API_KEY=H53761852795248`
 
 #### 2.7. Connecting to the [MongoDB](https://www.mongodb.com/)
 
@@ -140,7 +140,7 @@ Paste the user's password into the .env file instead of `<user_password>`:
 
 You get something like this:
 
-`MONGO_USER_PASSWORD=mike_tayson`
+`MONGO_USER_PASSWORD=mysecretpassword1234`
 
 Add your IP adress:
 
