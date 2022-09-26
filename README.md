@@ -24,6 +24,7 @@
    >> ##### [2.6. Connecting to the Free OCR API](https://github.com/OldJaponec/reads_license_plates_in_the_parking_lot/blob/main/README.md#26-connecting-to-the-free-ocr-api-2)
    >> ##### [2.7. Connecting to the MongoDB](https://github.com/OldJaponec/reads_license_plates_in_the_parking_lot/blob/main/README.md#27-connecting-to-the-mongodb-2)
 > ##### [3. Tests](https://github.com/OldJaponec/reads_license_plates_in_the_parking_lot/blob/main/README.md#1-tests)
+> ##### [4. Contacts](https://github.com/OldJaponec/reads_license_plates_in_the_parking_lot/blob/main/README.md#4-contacts)
 
 
 
