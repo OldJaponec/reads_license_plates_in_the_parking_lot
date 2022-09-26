@@ -120,9 +120,12 @@ You get something like this:
 Go to the [MongoDB website](https://www.mongodb.com/) and click Try Free. Fill out the form. Choose Python and name your project. Create Cluster. It's going to take some time.
 
 <img src='https://raw.githubusercontent.com/OldJaponec/reads_license_plates_in_the_parking_lot/f9b69f1596a0c420b7a25c1006db0a0b9d897497/screens/1.png' width=70%>
+<img src='https://raw.githubusercontent.com/OldJaponec/reads_license_plates_in_the_parking_lot/main/screens/2.png' width=70%>
 
 After completing the creation process, you must add a new database user: 
 
+<img src='https://raw.githubusercontent.com/OldJaponec/reads_license_plates_in_the_parking_lot/main/screens/3.png' width=70%>
+<img src='https://raw.githubusercontent.com/OldJaponec/reads_license_plates_in_the_parking_lot/main/screens/4.png' width=70%>
 
 Paste the user's password into the .env file instead of `<user_password>`:
 
@@ -134,7 +137,13 @@ You get something like this:
 
 Add your IP adress:
 
+<img src='https://raw.githubusercontent.com/OldJaponec/reads_license_plates_in_the_parking_lot/main/screens/5.png' width=70%>
+<img src='https://raw.githubusercontent.com/OldJaponec/reads_license_plates_in_the_parking_lot/main/screens/6.png' width=70%>
+
 Add your own database:
+
+<img src='https://raw.githubusercontent.com/OldJaponec/reads_license_plates_in_the_parking_lot/main/screens/7.png' width=70%>
+<img src='https://raw.githubusercontent.com/OldJaponec/reads_license_plates_in_the_parking_lot/main/screens/8.png' width=70%>
 
 Insert the name of the base and the collection in the corresponding fields by analogy above:
 
@@ -144,7 +153,13 @@ Insert the name of the base and the collection in the corresponding fields by an
 
 Connect your application:
 
+<img src='https://raw.githubusercontent.com/OldJaponec/reads_license_plates_in_the_parking_lot/main/screens/9.png' width=70%>
+<img src='https://raw.githubusercontent.com/OldJaponec/reads_license_plates_in_the_parking_lot/main/screens/10.png' width=70%>
+<img src='https://raw.githubusercontent.com/OldJaponec/reads_license_plates_in_the_parking_lot/main/screens/11.png' width=70%>
+<img src='https://raw.githubusercontent.com/OldJaponec/reads_license_plates_in_the_parking_lot/main/screens/12.png' width=70%>
+<img src='https://raw.githubusercontent.com/OldJaponec/reads_license_plates_in_the_parking_lot/main/screens/13.png' width=70%>
+<img src='https://raw.githubusercontent.com/OldJaponec/reads_license_plates_in_the_parking_lot/main/screens/14.png' width=70%>
+
 Copy conection string and past in the corresponding field in .env:
 
 `MONGO_CONNECTION_STRING=<connection_string>`
-
