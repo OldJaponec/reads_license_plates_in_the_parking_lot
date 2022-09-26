@@ -18,7 +18,7 @@
    >> ##### [2.3. Install pip](https://github.com/OldJaponec/reads_license_plates_in_the_parking_lot/blob/main/README.md#23-install-pip-1)
    >> ##### [2.4. Installing the required libraries](https://github.com/OldJaponec/reads_license_plates_in_the_parking_lot/blob/main/README.md#24-installing-the-required-libraries-1)
    >> ##### [2.5. Dowload project files](https://github.com/OldJaponec/reads_license_plates_in_the_parking_lot/blob/main/README.md#25-dowload-project-files-1)
-   >> ##### [2.6. Connecting to the Free OCR API(https://github.com/OldJaponec/reads_license_plates_in_the_parking_lot/blob/main/README.md#26-connecting-to-the-free-ocr-api-1)
+   >> ##### [2.6. Connecting to the Free OCR API](https://github.com/OldJaponec/reads_license_plates_in_the_parking_lot/blob/main/README.md#26-connecting-to-the-free-ocr-api-1)
    >> ##### [2.7. Connecting to the MongoDB](https://github.com/OldJaponec/reads_license_plates_in_the_parking_lot/blob/main/README.md#27-connecting-to-the-mongodb-1)
 > ##### [3. Tests](https://github.com/OldJaponec/reads_license_plates_in_the_parking_lot/blob/main/README.md#1-tests)
 
@@ -52,13 +52,13 @@ For the test, the console prints all errors at the stages of opening the file an
 ---
 
 ### 2. Installation and setup
-> ##### 2.1. Install Python
-> ##### 2.2. Run the Terminal
-> ##### 2.3. Install pip
-> ##### 2.4. Installing the required libraries
-> ##### 2.5. Dowload project files
-> ##### 2.6. Connecting to the [Free OCR API](https://ocr.space/OCRAPI)
-> ##### 2.7. Connecting to the [MongoDB](https://www.mongodb.com/)
+   > ##### [2.1. Install Python](https://github.com/OldJaponec/reads_license_plates_in_the_parking_lot/blob/main/README.md#21-install-python-1)
+   > ##### [2.2. Run the Terminal](https://github.com/OldJaponec/reads_license_plates_in_the_parking_lot/blob/main/README.md#22-run-the-terminal-1)
+   > ##### [2.3. Install pip](https://github.com/OldJaponec/reads_license_plates_in_the_parking_lot/blob/main/README.md#23-install-pip-1)
+   > ##### [2.4. Installing the required libraries](https://github.com/OldJaponec/reads_license_plates_in_the_parking_lot/blob/main/README.md#24-installing-the-required-libraries-1)
+   > ##### [2.5. Dowload project files](https://github.com/OldJaponec/reads_license_plates_in_the_parking_lot/blob/main/README.md#25-dowload-project-files-1)
+   > ##### [2.6. Connecting to the Free OCR API](https://github.com/OldJaponec/reads_license_plates_in_the_parking_lot/blob/main/README.md#26-connecting-to-the-free-ocr-api-1)
+   > ##### [2.7. Connecting to the MongoDB](https://github.com/OldJaponec/reads_license_plates_in_the_parking_lot/blob/main/README.md#27-connecting-to-the-mongodb-1)
 
 
 #### 2.1. Install Python
